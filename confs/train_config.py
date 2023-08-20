@@ -24,9 +24,9 @@ class RenderConfig:
 class GuideConfig:
     """ Parameters defining the guidance """
     # Guiding text prompt
-    text: str
+    text: str = 'cat'
     # The mesh to paint
-    shape_path: str
+    shape_path: str = 'none'
     # Append direction to text prompts
     append_direction: bool = True
     # A Textual-Inversion concept to use
@@ -66,7 +66,7 @@ class GlobalConfig:
 class LogConfig:
     """ Parameters for logging and saving """
     # Experiment name
-    exp_name: str
+    exp_name: str = 'dong'
     # Experiment output dir
     exp_root: Path = Path('experiments/')
     # How many steps between save step
@@ -91,7 +91,7 @@ class NeusConfig:
     """Parameters for NeuS"""
     neus_cfg_path: str = './confs/womask.conf'
     load_from_neus: bool = True # load SDF network from NeuS or not
-    neus_ckpt_path: str = ''
+    neus_ckpt_path: str = './neus_ckpt/ckpt_300000.pth'
     use_white_bkgd: bool = False
     mcube_threshold: float = 0.0
     is_continue: bool = False

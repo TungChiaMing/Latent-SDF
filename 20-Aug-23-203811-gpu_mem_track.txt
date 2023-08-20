@@ -1,0 +1,911 @@
+GPU Memory Track | 20-Aug-23-20:38:11 | Total Tensor Used Memory:4547.5 Mb Total Allocated Memory:4585.1 Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 100: __init__ Total Tensor Used Memory:4547.5 Mb Total Allocated Memory:4585.1 Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:4547.5 Mb Total Allocated Memory:4585.1 Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:6015.8 Mb Total Allocated Memory:6600.2 Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:6015.8 Mb Total Allocated Memory:6600.2 Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:6022.5 Mb Total Allocated Memory:6607.6 Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:7493.5 Mb Total Allocated Memory:8616.2 Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:7493.5 Mb Total Allocated Memory:8616.2 Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:6022.5 Mb Total Allocated Memory:6606.4 Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:7493.5 Mb Total Allocated Memory:8615.0 Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:7493.5 Mb Total Allocated Memory:8615.0 Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:6022.5 Mb Total Allocated Memory:6606.4 Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:7493.5 Mb Total Allocated Memory:8614.7 Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:7493.5 Mb Total Allocated Memory:8614.7 Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:6022.5 Mb Total Allocated Memory:6606.1 Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:7493.5 Mb Total Allocated Memory:8614.7 Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:7493.5 Mb Total Allocated Memory:8614.7 Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:6022.5 Mb Total Allocated Memory:6606.4 Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:7493.5 Mb Total Allocated Memory:8614.7 Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:7493.5 Mb Total Allocated Memory:8614.7 Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:7493.5 Mb Total Allocated Memory:8615.4 Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10624.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10624.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:7493.5 Mb Total Allocated Memory:8615.7 Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10623.4Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10623.3Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:7493.5 Mb Total Allocated Memory:8614.8 Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10623.7Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10623.7Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:7493.5 Mb Total Allocated Memory:8616.0 Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10624.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10624.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:7493.5 Mb Total Allocated Memory:8615.1 Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10624.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10624.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:7493.5 Mb Total Allocated Memory:8616.0 Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10624.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10624.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:7493.5 Mb Total Allocated Memory:8615.1 Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10624.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10624.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:7493.5 Mb Total Allocated Memory:8616.0 Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10624.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10624.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:7493.5 Mb Total Allocated Memory:8615.1 Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10624.3Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10624.3Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:7493.5 Mb Total Allocated Memory:8616.3 Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10624.6Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10624.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10625.2Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12633.8Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12633.8Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10625.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12633.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12633.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10624.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12633.3Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12633.2Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10625.2Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12632.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12632.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10624.6Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12632.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12632.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10625.2Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12633.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12633.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10625.2Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12633.8Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12633.8Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10625.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12633.8Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12633.8Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10625.2Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12633.8Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12633.8Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10625.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12633.8Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12633.8Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10625.2Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12633.8Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12633.8Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10625.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12633.8Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12633.8Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:8964.5 Mb Total Allocated Memory:10625.2Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12633.8Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12633.8Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12634.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:11906.5Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12634.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14642.8Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:11906.5Mb Total Allocated Memory:14642.8Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12634.2Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14642.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:11906.5Mb Total Allocated Memory:14642.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12634.2Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14642.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:11906.5Mb Total Allocated Memory:14642.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12634.2Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14642.8Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:11906.5Mb Total Allocated Memory:14642.8Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12634.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:11906.5Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12634.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:11906.5Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12634.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:11906.5Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12634.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:11906.5Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12634.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:11906.5Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12634.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:11906.5Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12634.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:11906.5Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12634.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:11906.5Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12634.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:11906.5Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12634.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:11906.5Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12634.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:11906.5Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12634.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:11906.5Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12634.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:11906.5Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12634.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:11906.5Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12634.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:11906.5Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12634.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:11906.5Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12634.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:11906.5Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12634.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:11906.5Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:10435.5Mb Total Allocated Memory:12634.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:11906.5Mb Total Allocated Memory:14643.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.7Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.3Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.3Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.7Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.4Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16651.7Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16651.7Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.4Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.7Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.4Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.7Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.4Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.7Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.4Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.7Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.3Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.3Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:11906.6Mb Total Allocated Memory:14643.7Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.3Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.3Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.2Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.2Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.7Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.0Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.7Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.2Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.2Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.2Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.2Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.7Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.2Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.2Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.2Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.2Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.7Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.2Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.2Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.2Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.2Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.7Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.2Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.2Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13377.6Mb Total Allocated Memory:16652.9Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 425: train_render Total Tensor Used Memory:14848.6Mb Total Allocated Memory:18661.5Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 348: render_single_image Total Tensor Used Memory:13380.9Mb Total Allocated Memory:16656.3Mb
+
+
+At /home/ak47885395/Latent-SDF/LatentPaintTrainer.py line 370: render_single_image Total Tensor Used Memory:14851.9Mb Total Allocated Memory:18664.9Mb
+

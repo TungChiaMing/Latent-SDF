@@ -1,0 +1,64 @@
+2023-08-19 04:23:22 try to load hugging face access token from the default place, make sure you have run `huggingface-cli login`.
+2023-08-19 04:23:22 loading stable diffusion with CompVis/stable-diffusion-v1-4...
+2023-08-19 04:23:28 	 successfully loaded stable diffusion!
+2023-08-19 04:29:44 try to load hugging face access token from the default place, make sure you have run `huggingface-cli login`.
+2023-08-19 04:29:44 loading stable diffusion with CompVis/stable-diffusion-v1-4...
+2023-08-19 04:29:49 	 successfully loaded stable diffusion!
+2023-08-19 04:31:36 try to load hugging face access token from the default place, make sure you have run `huggingface-cli login`.
+2023-08-19 04:31:36 loading stable diffusion with CompVis/stable-diffusion-v1-4...
+2023-08-19 04:31:40 	 successfully loaded stable diffusion!
+2023-08-19 04:34:30 try to load hugging face access token from the default place, make sure you have run `huggingface-cli login`.
+2023-08-19 04:34:30 loading stable diffusion with CompVis/stable-diffusion-v1-4...
+2023-08-19 04:34:34 	 successfully loaded stable diffusion!
+2023-08-19 04:43:22 try to load hugging face access token from the default place, make sure you have run `huggingface-cli login`.
+2023-08-19 04:43:22 loading stable diffusion with CompVis/stable-diffusion-v1-4...
+2023-08-19 04:43:27 	 successfully loaded stable diffusion!
+2023-08-19 04:43:40 End
+2023-08-19 04:43:40 Successfully initialized dong
+2023-08-19 04:43:40 Starting training ^_^
+2023-08-20 18:56:52 try to load hugging face access token from the default place, make sure you have run `huggingface-cli login`.
+2023-08-20 18:56:52 loading stable diffusion with CompVis/stable-diffusion-v1-4...
+2023-08-20 18:56:57 	 successfully loaded stable diffusion!
+2023-08-20 18:57:23 End
+2023-08-20 18:57:23 Successfully initialized dong
+2023-08-20 18:57:23 Starting training ^_^
+2023-08-20 19:34:00 try to load hugging face access token from the default place, make sure you have run `huggingface-cli login`.
+2023-08-20 19:34:00 loading stable diffusion with CompVis/stable-diffusion-v1-4...
+2023-08-20 19:34:45 try to load hugging face access token from the default place, make sure you have run `huggingface-cli login`.
+2023-08-20 19:34:45 loading stable diffusion with CompVis/stable-diffusion-v1-4...
+2023-08-20 19:38:27 	 successfully loaded stable diffusion!
+2023-08-20 19:38:53 End
+2023-08-20 19:38:53 Successfully initialized dong
+2023-08-20 19:38:53 Starting training ^_^
+2023-08-20 19:48:33 try to load hugging face access token from the default place, make sure you have run `huggingface-cli login`.
+2023-08-20 19:48:33 loading stable diffusion with CompVis/stable-diffusion-v1-4...
+2023-08-20 19:48:38 	 successfully loaded stable diffusion!
+2023-08-20 19:49:03 End
+2023-08-20 19:49:03 Successfully initialized dong
+2023-08-20 19:49:03 Starting training ^_^
+2023-08-20 20:22:08 try to load hugging face access token from the default place, make sure you have run `huggingface-cli login`.
+2023-08-20 20:22:08 loading stable diffusion with CompVis/stable-diffusion-v1-4...
+2023-08-20 20:22:12 	 successfully loaded stable diffusion!
+2023-08-20 20:22:35 End
+2023-08-20 20:22:35 Successfully initialized dong
+2023-08-20 20:22:35 Starting training ^_^
+2023-08-20 20:37:39 try to load hugging face access token from the default place, make sure you have run `huggingface-cli login`.
+2023-08-20 20:37:39 loading stable diffusion with CompVis/stable-diffusion-v1-4...
+2023-08-20 20:37:43 	 successfully loaded stable diffusion!
+2023-08-20 20:38:13 End
+2023-08-20 20:38:13 Successfully initialized dong
+2023-08-20 20:38:13 Starting training ^_^
+2023-08-20 20:41:21 Evaluating and saving model, iteration #100...
+2023-08-20 20:43:15 try to load hugging face access token from the default place, make sure you have run `huggingface-cli login`.
+2023-08-20 20:43:15 loading stable diffusion with CompVis/stable-diffusion-v1-4...
+2023-08-20 20:43:20 	 successfully loaded stable diffusion!
+2023-08-20 20:43:44 End
+2023-08-20 20:43:44 Successfully initialized dong
+2023-08-20 20:43:44 Starting training ^_^
+2023-08-20 20:46:15 Evaluating and saving model, iteration #100...
+2023-08-20 20:50:56 try to load hugging face access token from the default place, make sure you have run `huggingface-cli login`.
+2023-08-20 20:50:56 loading stable diffusion with CompVis/stable-diffusion-v1-4...
+2023-08-20 20:51:00 	 successfully loaded stable diffusion!
+2023-08-20 20:51:20 End
+2023-08-20 20:51:20 Successfully initialized dong
+2023-08-20 20:51:20 Starting training ^_^

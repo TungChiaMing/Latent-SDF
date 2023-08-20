@@ -6,7 +6,7 @@ guide:
   concept_name: null
   diffusion_name: CompVis/stable-diffusion-v1-4
   dy: 0.25
-  shape_path: /home/yi-ray/latent-nerf/shapes/animal.obj
+  shape_path: /home/ak47885395/shapes/animal.obj
   shape_scale: 0.6
   text: A scissor
   texture_interpolation_mode: nearest
